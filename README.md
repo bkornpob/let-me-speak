@@ -1,6 +1,5 @@
-html version:
-
-https://claude.ai/public/artifacts/cd73a6b0-26f0-4285-9cf4-ac0539e54c3c
+github_repo: https://github.com/bkornpob/let-me-speak?tab=readme-ov-file
+claude_artifacts: https://claude.ai/public/artifacts/cd73a6b0-26f0-4285-9cf4-ac0539e54c3c
 
 ---
 
