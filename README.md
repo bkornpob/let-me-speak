@@ -19,10 +19,7 @@ VIBE     : Stone Walls. Honest Screams. One Goodboy Who Would Not Stop. 🤍
 
 ---
 
-![](./cover-image-letmespeak.png)
-❮img src="cover-image-letmespeak.png" ❯
-
-
+![cover-image-letmespeak](./cover-image-letmespeak.png)
 
 ## 🌀 Prelude
 
