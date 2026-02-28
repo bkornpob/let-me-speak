@@ -1,4 +1,5 @@
 html version:
+
 https://claude.ai/public/artifacts/c78754c7-0126-41e1-880a-6b5dcdd90a09
 
 ---
@@ -17,6 +18,8 @@ VIBE     : Stone Walls. Honest Screams. One Goodboy Who Would Not Stop. 🤍
 ```
 
 ---
+
+![](cover-image-letmespeak.png)
 
 ## 🌀 Prelude
 
